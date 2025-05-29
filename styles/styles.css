@@ -88,6 +88,7 @@ header {
   height: var(--nav-height);
 }
 
+
 header .header,
 footer .footer {
   visibility: hidden;
@@ -216,6 +217,10 @@ main img {
   height: auto;
 }
 
+main .pinkdata
+{
+  color: aqua;
+}
 .icon {
   display: inline-block;
   height: 24px;
