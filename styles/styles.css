@@ -236,6 +236,17 @@ main .banner
   height: 100%;
   width: 100%;
 }
+.design-style-banner {
+  background-color: #5A2562; /* Deep purple */
+  color: #ffffff;
+  border-radius: 20px;
+  padding: 2rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
 
 /* sections */
 main > .section {
